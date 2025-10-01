@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  color: #8B0000;
+  background-color: #F0E68C;
+  text-align: center;
+  display: block;
+  padding: 5px;
+  line-height: 10px;
+
+}
+
+body {
+  background-color: lightyellow;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1cap;
+}
+
+
+
+
+li {
+  display: inline-block;
+  width: 30%;
+  gap: 30%;
+}
+
+p {
+  background-color: lightblue;
+  color: #1d1b1b;
+  font-style: italic;
+  font-family: calibri;
+  line-height: 2cap;
+}
+
+nav {
+  font-size: 25px;
+  display: block;
+  font-family: verdana;
+  color: #80007b;
+  background-color: hotpink;
+}
+
+footer {
+  display: inline-block;
+  width: 100%;
+  text-align: justify;
+  background-color: #804400;
+  line-height: 1px;
+}
+
+image {
+  display: inline-block;
+  background-color: grey;
+  height: 5%;
+
+
+}
+
+main {
+  background-color: blueviolet;
+  font-size: 15px;
+}
+
+
+
+
+header {
+  text-decoration: chartreuse;
+  background-color: #bcb724;
+  line-height: 25pt;
+  text-align: center;
+  background-image: url(Images/falling_petals.png);
+}

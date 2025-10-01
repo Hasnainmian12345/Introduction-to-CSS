@@ -40,7 +40,7 @@ p {
 
 nav {
   font-size: 25px;
-  display: block;
+  display: inline-block;width: 80%;
   font-family: verdana;
   color: #80007b;
   background-color: hotpink;

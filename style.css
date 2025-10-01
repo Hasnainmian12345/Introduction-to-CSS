@@ -21,7 +21,13 @@ body {
   font-size: 1cap;
 }
 
-
+nav {
+  font-size: 25px;
+  display: inline-block;width: 80%;
+  font-family: verdana;
+  color: #80007b;
+  background-color: hotpink;
+}
 
 /*
 li {
@@ -38,13 +44,7 @@ p {
   line-height: 2cap;
 }
 
-nav {
-  font-size: 25px;
-  display: inline-block;width: 80%;
-  font-family: verdana;
-  color: #80007b;
-  background-color: hotpink;
-}
+
 
 footer {
   display: inline-block;

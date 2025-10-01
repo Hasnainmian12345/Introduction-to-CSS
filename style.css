@@ -41,12 +41,12 @@ li {
   width: 30%;
   gap: 30%;
 } 
-p {
+main p {
   background-color:yellow;
   color: #1d1b1b;
   font-style: italic;
   font-family: calibri;
-  line-height: 2cap;
+  line-height: 4cap;
 }
 .grid {display:grid;grid-template-columns:40% 40%;justify-content: center;align-items: baseline;row-gap: 5px;}
 .grid img{width:100%;}
@@ -69,7 +69,7 @@ image {
 }
 
 main {
-  background-color: blueviolet;
+  background-color: yellow;
   font-size: 15px;
 }
 

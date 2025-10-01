@@ -47,7 +47,7 @@ p {
 .grid {display:grid;grid-template-columns:40% 40%;justify-content: center;align-items: baseline;row-gap: 5px;}
 .grid img{width:100%;}
 .park {display:grid;grid-template-columns:20% 20% 20% 20%;justify-content: center;align-items: baseline;row-gap: 5px;}
-.park img{width:10%;}
+.park img{width:100%;}
 footer {
   display: inline-block;
   width: 100%;

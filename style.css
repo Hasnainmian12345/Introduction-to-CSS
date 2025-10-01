@@ -44,7 +44,7 @@ p {
   font-family: calibri;
   line-height: 2cap;
 }
-div{display:grid;grid-template-columns:40% 40%;}
+.grid {display:grid;grid-template-columns:40% 40%;}
 
 
 footer {

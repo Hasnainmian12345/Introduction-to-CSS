@@ -36,7 +36,11 @@ li {
   width: 30%;
   gap: 30%;
 } */
-
+li {
+  display: inline-block;
+  width: 30%;
+  gap: 30%;
+} 
 p {
   background-color: lightblue;
   color: #1d1b1b;
@@ -47,7 +51,7 @@ p {
 .grid {display:grid;grid-template-columns:40% 40%;justify-content: center;align-items: baseline;row-gap: 5px;}
 .grid img{width:100%;}
 .park {display:grid;grid-template-columns:20% 20% 20% 20%;justify-content: center;align-items: baseline;row-gap: 5px;}
-.park img{width:100%;}
+.park img{width:auto;}
 footer {
   display: inline-block;
   width: 100%;
